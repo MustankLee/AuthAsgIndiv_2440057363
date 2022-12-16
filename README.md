@@ -12,3 +12,5 @@ Jalankan secara berurutan dari atas ke bawah pada terminal terlebih dahulu:
 5. composer require laravel/socialite
 6. php artisan migrate
 7. php artisan serve
+
+Selesai
