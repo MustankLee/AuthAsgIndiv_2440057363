@@ -2,6 +2,8 @@
 File terlalu banyak, sehingga mohon untuk di-download agar dapat mengakses/melihat code saya karena yang saya upload adalah dalam bentuk .zip
 Instalasi:
 
+NOTES: Pastikan membuat database terlebih dahulu, jika berdasarkan code maka buatlah sebuah database dengan nama: authenticationdb
+
 Jalankan secara berurutan dari atas ke bawah pada terminal terlebih dahulu:
 1. composer install
 2. composer require laravel/ui:^3.4.6 --dev
