@@ -1,8 +1,11 @@
 # AuthAsgIndiv_2440057363
 File terlalu banyak, sehingga mohon untuk di-download agar dapat mengakses/melihat code saya karena yang saya upload adalah dalam bentuk .zip
-Instalasi:
 
-NOTES: Pastikan membuat database terlebih dahulu, jika berdasarkan code maka buatlah sebuah database dengan nama: authenticationdb
+
+
+#Instalasi:
+Download zip di atas terlebih dahulu dan kemudian ekstrak dan masuk ke folder "Indiviudal_ASG_Authentication Submit", setelah itu
+pastikan sudah membuat database terlebih dahulu, jika berdasarkan code di atas maka buatlah sebuah database dengan nama: authenticationdb
 
 Jalankan secara berurutan dari atas ke bawah pada terminal terlebih dahulu:
 1. composer install
