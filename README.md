@@ -3,7 +3,7 @@ File terlalu banyak, sehingga mohon untuk di-download agar dapat mengakses/melih
 
 
 
-#Instalasi:
+Instalasi:
 Download zip di atas terlebih dahulu dan kemudian ekstrak dan masuk ke folder "Indiviudal_ASG_Authentication Submit", setelah itu
 pastikan sudah membuat database terlebih dahulu, jika berdasarkan code di atas maka buatlah sebuah database dengan nama: authenticationdb
 
