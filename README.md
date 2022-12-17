@@ -14,7 +14,7 @@ Jalankan secara berurutan dari atas ke bawah pada terminal terlebih dahulu:
 4. npm run dev
 5. composer require laravel/socialite
 6. php artisan migrate
-7. php artisan serve
+7. php artisan serve.
 
 Terdapat juga link video demo aplikasi dari code tersebut:
 https://binusianorg-my.sharepoint.com/personal/rico_susanto_binus_ac_id/_layouts/15/guestaccess.aspx?docid=0eae3fb6e7872431b9cd209482cbe166d&authkey=Aacv8s6EtZfBqC_ta499Nkc&e=Y5hnVV
